@@ -7,9 +7,9 @@ To install, simply clone this repository & run the following command  `npm insta
 ## Running Project
 To run this project locally, run the following command  `npm start`, this will start a local instance of the application & you will be able to run the app in your browser at this url http://localhost:3000/.
 
-### Netlify Deployment
+### AWS Deployment
 
-This app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-launch-programs.netlify.app/)
+This app is deployed on **Amazon AWS** [Spacex-Launch-Programs](http://ec2-34-229-200-188.compute-1.amazonaws.com:3000/)
 
 ### Approach
 1. Fetched Api data.
@@ -19,7 +19,7 @@ This app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-laun
 5. Added Responsive design
 6. Created Documentation
 7. Testing and Debugging throughout
-8. Netlify Deployment
+8. Amazon AWS Deployment
 
 
 ### Stack Details
@@ -29,8 +29,8 @@ This app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-laun
 4. Editor- Visual Studio Code
 5. Browser - Google Chrome
 6. Os- Windows
-7. Deployment - Netlify
-8. Tools - npm, babel,yarn
+7. Deployment - Amazon AWS
+8. Tools - npm, babel, yarn
 9. Online Json parser to view API data
 
 
@@ -47,9 +47,5 @@ This app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-laun
 > After Applying Successful Launch Filter
 
 ![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1272__IQT1rCmyt.png)
-
-> After Applying Launch Year, Successful Launch and Landing Success Filter
-
-![Alt text](https://ik.imagekit.io/eudv8cramv/Screenshot__1273__OetAvBQCL.png)
 
 Developed By Aakanksha Dahima
